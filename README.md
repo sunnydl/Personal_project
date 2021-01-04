@@ -48,4 +48,5 @@ In this project I am building a program that will simulate the shopping checkout
 * Dynamic Queue for the Data Structure
 * C String manipulation for managing input information of customers
 
-#### 
+#### Basic Instruction
+
