@@ -49,4 +49,18 @@ In this project I am building a program that will simulate the shopping checkout
 * C String manipulation for managing input information of customers
 
 #### Basic Instruction
+Open Git Bash and go to the directory where you place all the files for this project
+You can modify the numbers in the input file to test out different result
+The format of the input will be as follow: 
+Number_of_customers
+arrival_time_1 duration_time_1(latency)
+arrival_time_2 duration_time_2
+arrival_time_3 duration_time_3
+...
 
+Then enter the following in Git Bash
+```bash
+make
+Simulation input output
+```
+After that, 2 output files will be made showcasing the result.
