@@ -37,6 +37,8 @@ Press 'c' to go into custom mode and make your own board
 
 ![Sudoku game](./images/Sudoku_screenshot.png)
 
+##
+##
 ## Shopping line simulator
 
 #### Introduction
