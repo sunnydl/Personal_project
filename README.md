@@ -36,3 +36,15 @@ Press 'ESC' to load default board
 Press 'c' to go into custom mode and make your own board
 
 ![Sudoku game](./images/Sudoku_screenshot.png)
+
+## Shopping line simulator
+
+#### Introduction
+In this project I am building a program that will simulate the shopping checkout line where customers with different amount of items come at different time and try to finish checkout as soon as possible, the goal is to allocate customers to the most efficient shopping line.
+
+#### Technologies I used
+* C for the language
+* Dynamic Queue for the Data Structure
+* C String manipulation for managing input information of customers
+
+#### 
