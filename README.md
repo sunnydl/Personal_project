@@ -31,9 +31,9 @@ or
 py -m pip install -U pygame --user
 ```
 #### Basic Instruction
-Press 'Enter' to automatically solve the board
-Press 'ESC' to load default board
-Press 'c' to go into custom mode and make your own board
+##### Press 'Enter' to automatically solve the board
+##### Press 'ESC' to load default board
+##### Press 'c' to go into custom mode and make your own board
 
 ![Sudoku game](./images/Sudoku_screenshot.png)
 
