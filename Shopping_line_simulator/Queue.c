@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<assert.h>
-#include"IntegerQueue.h"
+#include"Queue.h"
 
 typedef struct NodeObj{
    int item;
