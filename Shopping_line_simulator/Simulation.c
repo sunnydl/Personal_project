@@ -3,7 +3,7 @@
 #include<string.h>
 #include<assert.h>
 #include"Job.h"
-#include"IntegerQueue.h"
+#include"Queue.h"
 
 Job getJob(FILE* in){
    int a, d;
