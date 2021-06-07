@@ -11,6 +11,13 @@ In this project I am building a program that simulates the behavior of a basic h
 * Socket programming
 * Getopt for arguments parsing
 
+### Prerequisite
+* Linux [Ubuntu 20.04](https://ubuntu.com/download/desktop) environment
+* Clang compiler for C
+```bash
+sudo apt install build-essential clang git make valgrind lldb clang-format
+```
+
 ### Basic Instruction
 ##### Open a terminal and go to the directory where you place all the files for this project
 ##### Then enter the following in the terminal
@@ -21,11 +28,11 @@ make
 ##### After that, a file named "logfile.txt" will be made for the server to log the requests, the server port will be set to 8080 with a thread usage of 3.
 #####
 ##### To send requests to the server, open another terminal, use curl commands such as the following example:
-##### curl -T input http://localhost:8080/0123456789abcde -v
+* curl -T input http://localhost:8080/0123456789abcde -v
 ###### ---This will generate a PUT request to destination file "0123456789abcde" using the contents of the file "input"
-##### curl http://localhost:8080/0123456789abcde -v -o output
+* curl http://localhost:8080/0123456789abcde -v -o output
 ###### ---This will generate a GET request to destination file "0123456789abcde" and store the content to file "output"
-##### curl -T input http://localhost:8080/0123456789abcde -v
+* curl -T input http://localhost:8080/0123456789abcde -v
 ###### ---This will generate a HEAD request to destination file "0123456789abcde" and get back the file size
 #####
 ##### To send multiple requests from different connections, use a test.sh script with content such as following:
@@ -40,7 +47,3 @@ bash test.sh
 ```
 #####
 ##### After done with the program, use control c to terminate the program.
-
-
-
-
