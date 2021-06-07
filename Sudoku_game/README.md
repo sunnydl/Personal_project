@@ -23,4 +23,4 @@ py -m pip install -U pygame --user
 ##### Press 'ESC' to load default board
 ##### Press 'c' to go into custom mode and make your own board
 
-![Sudoku game](./images/sudoku.png)
+![Sudoku game](../images/sudoku.png)
