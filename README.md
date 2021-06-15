@@ -5,7 +5,7 @@ All the projects that I had fun building are listed here
 
 ## Project list:
 * Multithreaded Web Server
-* Sudoku game
+* Sudoku Simulator
 * Shopping line simulator
 
 
