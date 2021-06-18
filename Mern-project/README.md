@@ -1,5 +1,7 @@
 ## Mern full stack website: [Unspeakables](https://unspeakables.netlify.app/)
 
+![Sample_page](../images/samplePage.png)
+
 ### Introduction
 In this project I built a full stack website using Mongodb, Expressjs, Reactjs, and Nodejs with CRUD APIs and user authentication functionality that also allows google login.
 The website name is Unspeakables, it is a platform where people can come and share their secrets with everyone. What's more, users can choose what kinds of secrets they want
