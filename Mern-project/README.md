@@ -14,6 +14,7 @@ title, secret content, and like counts. And of course, only the owner of the sec
 * Reactjs for the frontend
 * Nodejs and Expressjs for the backend
 * Mongodb for the NoSQL database
+* Redux for front end state management
 * JSON Web Token, bcryptjs, and GoogleLogin for user authentication
 * Material UI for the user interfaces
 * Create-react-app as starting point
